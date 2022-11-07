@@ -13,5 +13,17 @@ public class GitOne {
 		System.out.println("one");
 		
 	}
+	public void method4() {
+		System.out.println("one");
+		
+	}
+	public void method5() {
+		System.out.println("one");
+		
+	}
+	public void method6() {
+		System.out.println("one");
+		
+	}
 
 }
